@@ -1,0 +1,7 @@
+.word {
+  margin: auto;
+  color: black;
+  font: "roboto";
+  display: flex;
+  justify-content: center;
+}
