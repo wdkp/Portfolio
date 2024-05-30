@@ -25,6 +25,25 @@
   margin-right: 30px;
 }
 
+.projects {
+  display: flex;
+  justify-content: center;
+  border-bottom: 1px solid black;
+  border-top: 1px solid black;
+  margin-left: 30px;
+  margin-right: 30px;
+}
+
+.contact {
+  display: flex;
+  justify-content: center;
+  border-bottom: 1px solid black;
+  border-top: 1px solid black;
+  margin-left: 30px;
+  margin-right: 30px;
+  margin-top: 30px;
+}
+
 .text-blk {
   margin-top: 0px;
   margin-right: 0px;
