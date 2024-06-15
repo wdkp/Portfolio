@@ -5,6 +5,11 @@ body {
   font-family: "Prompt";
 }
 
+h1 {
+  text-align: center;
+}
+
+
 .word {
   margin: auto;
   color: black;
@@ -351,6 +356,7 @@ section {
 .section-container {
   gap: 4rem;
   height: 80%;
+
 }
 
 .section__pic-container {
@@ -382,7 +388,7 @@ section {
 .experience-details-container {
   display: flex;
   justify-content: center;
-  flex-direction: column;
+
 }
 
 .article-container {
